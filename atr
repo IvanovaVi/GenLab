@@ -1,5 +1,0 @@
-#for exp
-$ export GITHUB_USERNAME = IvanovaVi                                      # Присваиваем переменной GITHUB_USERNAME свое имя на GitHub 
-$ export GITHUB_EMAIL = s0172011@edu.kubsu.ru                               # Присваиваем переменной GITHUB_EMAIL свой email 
-$ export GITHUB_TOKEN = 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      # Присваиваем переменной GIST_TOKEN свой токен 
-$ alias edit = subl3                                                    # Биндим команду edit на subl3
